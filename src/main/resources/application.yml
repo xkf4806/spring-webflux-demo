@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Hello WebFlux Application
+server:
+  port: 8081
